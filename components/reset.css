@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a,
+p,
+li,
+ul {
+  color: #fff;
+  text-decoration: none;
+  list-style: none;
+}/*# sourceMappingURL=reset.css.map */
